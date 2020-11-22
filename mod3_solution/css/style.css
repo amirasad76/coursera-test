@@ -1,0 +1,114 @@
+* {
+    box-sizing: border-box;
+    font-family:sans-serif;
+    
+}
+h1 { 
+    padding-top: 10px;
+    font-size: 5vw ; 
+}
+@media (min-width: 992px) {
+
+    .col-lg-12 {
+      
+      width:90%;
+      margin-left: 5vw;
+  
+  
+ 
+}
+
+
+
+    
+}
+@media (min-width: 768px) and (max-width: 991px) {
+.col-md-12 {
+  margin-left: 5vw;
+  margin-right: 8vw;
+   width:90%;
+}
+ h1 { 
+    padding-top: 10px;
+    font-size: 2em ; 
+}
+}
+    
+
+@media (max-width : 767px) {
+
+
+  .navbar-brand h1 {
+    color: black;
+      font-family: 'Lora', serif;
+    
+    
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+   font-size: 5vw;
+}
+.col-sm-12{
+  width:60%;
+}
+}
+#header-nav {
+    background-color: gray;
+    
+    
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    margin-right: -5px;
+
+}
+   
+
+#header-nav {
+    background-color: gray;
+    
+    
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    
+
+}
+
+.navbar-brand h1 {
+    color: black;
+      font-family: 'Lora', serif;
+    
+    
+    text-transform: uppercase;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: .75;
+  
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+#nav-list a {
+  text-align: center;
+  color:black;
+}
+h3 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  margin-bottom: 30px;
+}
+.kar {
+  background-color: gray;
+  color: black;
+  text-align: center;
+}
